@@ -5,3 +5,16 @@ backgraud: #BBBBBB;
 nav li {
   display: inline:
 }
+
+nav a {
+  text-transform: uppercase;
+  color: #000000;
+  font-weigtht: bold:
+  font-seze: 22px;
+  text-decoration: none;
+}
+
+nav li {
+  display: inline;
+  margin: 0 0 0 15xp;
+    }
